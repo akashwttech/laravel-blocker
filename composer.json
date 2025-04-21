@@ -32,11 +32,8 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Akashwttech\\LaravelBlocker\\LaravelBlockerServiceProvider"
+                "jeremykenedy\\LaravelBlocker\\LaravelBlockerServiceProvider"
             ]
-        },
-        "branch-alias": {
-            "dev-6.x": "6.x-dev"
         }
     },
     "config": {
